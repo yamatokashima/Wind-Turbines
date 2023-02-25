@@ -1,9 +1,8 @@
 # Wind-Turbines
-### Worked a 3-day data sprint analysis project with 3 colleagues on the wind turbine market to make recommendations on funding turbine operators and manufacturers
 
 Datasets, visuals, SQL Queries, Python code, data dictionaries, and Tableau file can be found [here](https://drive.google.com/drive/folders/1G97DGgpxNxm5d6_BFekW-tmbM5GpSQeX?usp=sharing)
 
-As a team of four, we were held responsible for analyzing data and following up on the following prompts to help stakeholders make decisions on investing in the wind turbine market:
+As a team of four, we were held responsible for analyzing data and following up and presenting on the following prompts to help stakeholders make informed decisions on investing in the wind turbine market:
 
 * I want to understand the global energy market and what part wind turbines play within it
   - Place of wind power in the global energy market
