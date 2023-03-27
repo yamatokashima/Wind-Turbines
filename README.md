@@ -1,5 +1,8 @@
 # Wind-Turbines
 
+![Location of Wind Turbines](https://user-images.githubusercontent.com/101782618/228026541-20d4605a-d0b1-47c7-867d-012e97113890.png)
+
+
 Datasets, visuals, SQL Queries, Python code, data dictionaries, and Tableau file can be found [here](https://drive.google.com/drive/folders/1G97DGgpxNxm5d6_BFekW-tmbM5GpSQeX?usp=sharing)
 
 As a team of four, we were held responsible for analyzing data and following up and presenting on the following prompts to help stakeholders make informed decisions on investing in the wind turbine market:
